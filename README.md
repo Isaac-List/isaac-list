@@ -29,5 +29,5 @@ fiction! 📖
 The best way to contact me is by email at my [School Address](mailto:listis01@luther.edu)
 
 ### Some Language Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-list)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-newt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-list&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-newt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
